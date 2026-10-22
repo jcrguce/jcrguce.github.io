@@ -1,0 +1,267 @@
+{
+  "theme": "light",
+  "name": "Jullien Guce",
+  "role": "Art Director / Graphic Designer",
+  "intro": "Campaign concepts and visuals across digital, print, and animation.",
+  "bio": "An art director and graphic designer with over 10 years of experience in advertising and design. I develop campaign concepts and visuals across digital, print, and animation.\n\nCurrently a Brand Visualizer Manager, I guide visual direction and support the design team while staying involved in creating the work. I enjoy collaborating on ideas and exploring new tools, including AI, as part of my creative process.",
+  "email": "jcrguce@gmail.com",
+  "phone": "+63 917 625 3553",
+  "linkedin": "https://www.linkedin.com/in/jullien-guce",
+  "behance": "https://www.behance.net/jcrguce",
+  "portrait": "/work/portrait-current.png",
+  "pdf": "/portfolio.pdf",
+  "cv": "",
+  "education": "AB Multimedia Arts\nLyceum of the Philippines University · Batangas\n2012–2016",
+  "experience": [
+    {
+      "company": "Flash Express Philippines",
+      "role": "Brand Visualizer Manager",
+      "dates": "Sep 2024 – Present",
+      "description": ""
+    },
+    {
+      "company": "Intrepid Asia",
+      "role": "Sr. Designer",
+      "dates": "Sep 2023 – Mar 2024",
+      "description": ""
+    },
+    {
+      "company": "Cheil Philippines",
+      "role": "Art Director",
+      "dates": "Mar 2020 – Mar 2023",
+      "description": ""
+    },
+    {
+      "company": "The Huddle Room Media Inc.",
+      "role": "Graphic Designer",
+      "dates": "May 2016 – Dec 2018",
+      "description": ""
+    },
+    {
+      "company": "Freelance",
+      "role": "Art Director / Graphic Designer",
+      "dates": "Feb 2019 – Present",
+      "description": ""
+    }
+  ],
+  "accent": "#242424",
+  "animation": true,
+  "projects": [
+    {
+      "id": "samsung-integrated-campaigns",
+      "title": "Integrated Campaigns for Samsung Philippines",
+      "brand": "Samsung",
+      "category": "Integrated campaigns",
+      "summary": "Selected work across Mobile and Digital Appliances, spanning product launches, seasonal promotions, and key visuals. Work includes visual development to local adaptations across digital, retail, and outdoor materials.",
+      "challenge": "Bring Samsung’s product stories and promotions to the Philippine market while maintaining its premium identity across different channels.",
+      "solution": "Developed and adapted campaign visuals across digital, animation, retail, and outdoor placements with a consistent visual direction and clear message hierarchy.",
+      "contribution": "",
+      "results": "",
+      "cover": "/work/samsung-cover.webp",
+      "published": true,
+      "media": [
+        {
+          "id": "page-9",
+          "type": "image",
+          "src": "/work/page-09.webp",
+          "title": "Unfolding Galaxy Across the Philippines",
+          "thumbnail": ""
+        },
+        {
+          "id": "fold-film",
+          "type": "link",
+          "src": "https://www.facebook.com/share/v/1C4uAcuwQZ/",
+          "title": "Watch the Galaxy Z Fold3 film",
+          "thumbnail": ""
+        },
+        {
+          "id": "flip-film",
+          "type": "link",
+          "src": "https://www.facebook.com/share/v/1Ca35zsMbX/",
+          "title": "Watch the Galaxy Z Flip3 film",
+          "thumbnail": ""
+        },
+        {
+          "id": "page-10",
+          "type": "image",
+          "src": "/work/page-10.webp",
+          "title": "Bringing Blue Month Sale Online",
+          "thumbnail": ""
+        },
+        {
+          "id": "blue-month-film",
+          "type": "link",
+          "src": "https://web.facebook.com/SamsungPH/videos/315209316229754/",
+          "title": "Watch the Blue Month Sale animation",
+          "thumbnail": ""
+        },
+        {
+          "id": "page-11",
+          "type": "image",
+          "src": "/work/page-11.webp",
+          "title": "Creating a Home Upgrade Experience",
+          "thumbnail": ""
+        },
+        {
+          "id": "home-upgrade-film",
+          "type": "link",
+          "src": "https://www.facebook.com/reel/783810815830786",
+          "title": "Watch the Home Upgrade Sale animation",
+          "thumbnail": ""
+        },
+        {
+          "id": "page-12",
+          "type": "image",
+          "src": "/work/page-12.webp",
+          "title": "Selected work for Samsung",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "tefal-holiday-sale",
+      "title": "Tefal Holiday Sale Campaign",
+      "brand": "Tefal",
+      "category": "E-commerce",
+      "summary": "Developed the visual direction for Tefal’s Holiday Sale Campaign and adapted it across multiple customer touchpoints.",
+      "challenge": "Create a festive holiday campaign that drives seasonal purchases while maintaining a strong and recognizable Tefal brand presence across e-commerce channels.",
+      "solution": "A flexible e-commerce campaign system for Lazada and Shopee that keeps products clear, promos easy to read, and visuals consistent across all holiday sale assets.",
+      "contribution": "",
+      "results": "",
+      "cover": "/work/tefal-cover.webp",
+      "published": true,
+      "media": [
+        {
+          "id": "page-4",
+          "type": "image",
+          "src": "/work/page-04.webp",
+          "title": "Holiday key visual, marketplace banners, and product imagery",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "hp-mega-shopping",
+      "title": "HP 3.3 Mega Shopping Campaign",
+      "brand": "",
+      "category": "E-commerce",
+      "summary": "Created campaign visuals for HP’s 3.3 Sale across Lazada and Shopee, highlighting promotions, product categories, and featured deals.",
+      "challenge": "Create a 3.3 campaign for HP that attracts shoppers during the sale event and clearly presents promotions across different product categories.",
+      "solution": "Designed a campaign that combines promotional offers, product categories, and featured deals into a simple and easy-to-navigate shopping experience.",
+      "contribution": "",
+      "results": "",
+      "cover": "/work/hp-cover.webp",
+      "published": true,
+      "media": [
+        {
+          "id": "page-6",
+          "type": "image",
+          "src": "/work/page-06.webp",
+          "title": "",
+          "thumbnail": ""
+        },
+        {
+          "id": "page-7",
+          "type": "image",
+          "src": "/work/page-07.webp",
+          "title": "",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "flash-express-brand",
+      "title": "Flash Express Brand Campaign",
+      "brand": "Flash Express",
+      "category": "Brand campaigns",
+      "summary": "Led and executed brand visuals across social media and marketing campaigns, creating content that strengthened brand presence and customer connection.",
+      "challenge": "Create engaging marketing visuals for Flash Express across digital, print, and on-ground channels while maintaining a consistent brand identity.",
+      "solution": "Designed cohesive brand assets that delivered a consistent brand experience across every customer touchpoint.",
+      "contribution": "",
+      "results": "",
+      "cover": "/work/flash-cover.webp",
+      "published": true,
+      "media": [
+        {
+          "id": "page-14",
+          "type": "image",
+          "src": "/work/page-14.webp",
+          "title": "Campaign key visuals, marketing materials, and company profile",
+          "thumbnail": ""
+        },
+        {
+          "id": "flash-film",
+          "type": "link",
+          "src": "https://www.facebook.com/reel/1312427701024995",
+          "title": "Watch Flash Express video content",
+          "thumbnail": ""
+        },
+        {
+          "id": "flash-career",
+          "type": "embed",
+          "src": "https://www.youtube.com/watch?v=t8XMrbcpihI",
+          "title": "Jobstreet Career Con 2025 · Flash Express",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "san-miguel-oktoberfest",
+      "title": "Bringing Oktoberfest Across the Philippines",
+      "brand": "San Miguel",
+      "category": "Integrated campaigns",
+      "summary": "Created campaign visuals for San Miguel Oktoberfest across social, digital, OOH, and event materials, supporting nationwide event promotion and real-time coverage.",
+      "challenge": "Turn Oktoberfest into a nationwide celebration that felt relevant to different audiences across the Philippines, while giving San Miguel a meaningful way to connect with its consumers.",
+      "solution": "We built the campaign around “SALAMAT,” turning Oktoberfest into San Miguel’s way of giving back. The idea was carried across regional events, digital content, promotions, and on-ground executions to create one connected celebration across the country.",
+      "contribution": "",
+      "results": "",
+      "cover": "/work/oktoberfest-cover.webp",
+      "published": true,
+      "media": [
+        {
+          "id": "page-16",
+          "type": "image",
+          "src": "/work/page-16.webp",
+          "title": "Teaser, launch, live coverage, and sustaining campaign",
+          "thumbnail": ""
+        },
+        {
+          "id": "oktoberfest-film",
+          "type": "link",
+          "src": "https://web.facebook.com/reel/1288910547917329",
+          "title": "Watch the Oktoberfest campaign film",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "systane-eye-awareness",
+      "title": "Building Dry Eye Awareness Through Screen Time",
+      "brand": "Systane",
+      "category": "Digital campaigns",
+      "summary": "Developed the campaign concept and visuals for Systane Ultra Eyedurance, raising awareness of Dry Eye Syndrome through digital content and media.",
+      "challenge": "People spend hours in front of screens every day. While they know prolonged screen use can affect their eyes, giving up their devices isn’t realistic. The challenge was to raise awareness of Dry Eye Syndrome in a way that felt relevant to their screen-driven lifestyle.",
+      "solution": "We created Systane Ultra Eyedurance, a digital campaign that used people’s screen time to educate them about Dry Eye Syndrome. Onscreen ads highlighted symptoms and connected prolonged screen use to dry eye, supported by social content, native articles, videos, and search.",
+      "contribution": "",
+      "results": "",
+      "cover": "/work/systane-cover.webp",
+      "published": true,
+      "media": [
+        {
+          "id": "page-18",
+          "type": "image",
+          "src": "/work/page-18.webp",
+          "title": "Social, native content, search, display, and case study",
+          "thumbnail": ""
+        },
+        {
+          "id": "systane-film",
+          "type": "embed",
+          "src": "https://www.youtube.com/watch?v=XLxT4qS8Y2k",
+          "title": "Systane Ultra Eyedurance · Case study",
+          "thumbnail": ""
+        }
+      ]
+    }
+  ]
+}
